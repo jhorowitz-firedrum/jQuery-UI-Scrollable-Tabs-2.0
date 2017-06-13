@@ -1,0 +1,15 @@
+{
+	"name": "jquery-ui-scrollable-tabs",
+	"ignore": [
+		"**/.*",
+		"build",
+		"demos",
+		"external",
+		"tests"
+	],
+	"license": "WTFPL",
+	"dependencies": {
+		"jquery": ">=1.6"
+	},
+	"devDependencies": {}
+}

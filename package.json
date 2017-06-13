@@ -1,0 +1,29 @@
+{
+	"name": "jquery-ui-scrollable-tabs",
+	"title": "jQuery UI Scrollable Tabs 2",
+	"version": "2.1",
+	"main": "js/jquery.scrollabletab.js",
+	"maintainers": [
+		{
+			"name": "Jonathan Horowitz",
+			"email": "jhorowitz@firedrum.com",
+			"url": "http://firedrum.com"
+		},
+		{
+			"name": "Aamir Afridi",
+			"email": "aamirafridi@gmail.com",
+			"url": "http://jquery.aamirafridi.com/jst/"
+		}
+	],
+	"license": "WTFPL",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/jhorowitz-firedrum/jQuery-UI-Scrollable-Tabs-2.0.git"
+	},
+	"dependencies": {
+		"jquery": ">=1.7.0 <4.0.0"
+	},
+	"devDependencies": {
+	},
+	"keywords": []
+}
